@@ -1,0 +1,28 @@
+
+.row {
+    text-align: center;
+    margin-top: 3rem;
+    
+}
+
+.btn {
+    margin-right: 5px;
+    
+}
+
+#search {
+    margin-right: 5px;
+    font-size: 1.3rem;
+}
+
+#heroImg {
+    margin-top: 5rem;
+}
+
+#random-hero {
+    font-size: 1.3rem;
+}
+
+#searchHero {
+    font-size: 1.3rem
+}
